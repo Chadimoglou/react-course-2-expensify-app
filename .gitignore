@@ -1,6 +1,5 @@
 node_modules/
 *.DS_Store
-*.xlsx
 public/bundle.js
 public/bundle.js.map
 public/styles.css
